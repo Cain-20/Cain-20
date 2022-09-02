@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Caio Auguto</h1>
 <h3 align="center">I am studying engineering, looking for opportunities and collaboration on projects related to embedded, mobile and deep learning.</h3>
 
+<div>
+<a href="https://github.com/Cain-20">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cain-20&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cain-20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/cain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cain" height="30" width="40" /></a>
